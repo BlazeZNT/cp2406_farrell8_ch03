@@ -11,11 +11,11 @@ public class FixDebugThree2
    public static void add(int a, int b)
    {
       System.out.println("The sum of " + a +
-         "and" + b + "is" + (a + b));
+         " and " + b + " is " + (a + b));
    }
    public static void subtract(int a,int b)
    {
       System.out.println("The difference between " +
-        a + "and" + b + "is" + (a - b));
+        a + " and " + b + " is " + (a - b));
    }
 }
